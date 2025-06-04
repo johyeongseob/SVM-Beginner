@@ -1,6 +1,6 @@
 # 🧠 SVM Beginner
 
-A structured learning journey for new members of the SVM Lab (Summer 2023), focusing on deep learning fundamentals, image processing, super-resolution, classification, and object detection.
+A structured learning journey for new members of the [SVM Lab](https://sites.google.com/view/csi2267svm/) (Summer 2023), focusing on deep learning fundamentals, image processing, super-resolution, classification, and object detection.
 
 ---
 
