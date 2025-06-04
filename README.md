@@ -33,7 +33,7 @@ A structured learning journey for new members of the SVM Lab (Summer 2023), focu
 ---
 
 ## 📁 Repository Structure
-
+```
 SVM_Beginner/
 ├── Week1/
 │ └── deep_learning_basics/
@@ -47,4 +47,4 @@ SVM_Beginner/
 ├── Week5/
 │ └── object_detection/
 └── README.md
-
+```
