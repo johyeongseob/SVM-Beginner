@@ -1,6 +1,6 @@
 # 🧠 SVM Beginner
 
-A structured learning journey for new members of the SVM Lab (2nd Cohort, Summer 2023), focusing on deep learning fundamentals, image processing, super-resolution, classification, and object detection.
+A structured learning journey for new members of the SVM Lab (Summer 2023), focusing on deep learning fundamentals, image processing, super-resolution, classification, and object detection.
 
 ---
 
@@ -12,7 +12,7 @@ A structured learning journey for new members of the SVM Lab (2nd Cohort, Summer
 
 ### Week 2: Image Processing Techniques
 - Implemented **Bilateral Filter** for edge-preserving smoothing.
-- Reproduced the paper:
+- Implemented the algorithm proposed in the paper:
   > J.-S. Choi and M. Kim, "Super-Interpolation With Edge-Orientation-Based Mapping Kernels for Low Complex $2\times$ Upscaling," *IEEE Transactions on Image Processing*, vol. 25, no. 1, pp. 469–483, Jan. 2015.
 
 ### Week 3: Image Classification Models
