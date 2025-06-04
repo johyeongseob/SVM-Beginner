@@ -1,13 +1,50 @@
-# SVM_Beginner
-SVM Lab 신입생 교육 2기(23년도 여름방학) 코드
+# 🧠 SVM Beginner
 
-1 week: Deep Learning 교육 수강 및 과제 수행
-2 week: Bilateral filter 구현 및 superinterpolation* 논문 구현
+A structured learning journey for new members of the SVM Lab (2nd Cohort, Summer 2023), focusing on deep learning fundamentals, image processing, super-resolution, classification, and object detection.
 
-* J.-S. Choi and M. Kim, "Super-Interpolation With Edge-Orientation-Based Mapping Kernels for Low Complex $2\times$ Upscaling," *IEEE Transactions on Image Processing*, vol. 25, no. 1, pp. 469–483, Jan. 2015.
+---
 
-3 week: Classifiation 모델 구현: VGG16, ResNet18, DenseNet121-BC
+## 📅 Weekly Curriculum Overview
 
-4 week: Super interpolation 모델 구현: SRCNN, SRResNet
+### Week 1: Deep Learning Fundamentals
+- Attended introductory lectures on deep learning.
+- Completed assignments covering basic concepts and applications.
 
-5 week: Object detection 모델 구현: Faster R-CNN
+### Week 2: Image Processing Techniques
+- Implemented **Bilateral Filter** for edge-preserving smoothing.
+- Reproduced the paper:
+  > J.-S. Choi and M. Kim, "Super-Interpolation With Edge-Orientation-Based Mapping Kernels for Low Complex $2\times$ Upscaling," *IEEE Transactions on Image Processing*, vol. 25, no. 1, pp. 469–483, Jan. 2015.
+
+### Week 3: Image Classification Models
+- Developed and trained the following models:
+  - **VGG16**
+  - **ResNet18**
+  - **DenseNet121-BC**
+
+### Week 4: Super-Resolution Models
+- Implemented super-resolution techniques:
+  - **SRCNN**
+  - **SRResNet**
+
+### Week 5: Object Detection
+- Built and evaluated an object detection model:
+  - **Faster R-CNN**
+
+---
+
+## 📁 Repository Structure
+
+SVM_Beginner/
+├── Week1/
+│ └── deep_learning_basics/
+├── Week2/
+│ ├── bilateral_filter/
+│ └── super_interpolation/
+├── Week3/
+│ └── classification_models/
+├── Week4/
+│ └── super_resolution_models/
+├── Week5/
+│ └── object_detection/
+└── README.md
+
